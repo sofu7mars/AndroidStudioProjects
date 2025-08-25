@@ -1,0 +1,12 @@
+
+    <resources>
+        <style name="CustomPopupMenu" parent="Widget.AppCompat.PopupMenu">
+            <item name="android:popupBackground">#03A9F4</item> <!-- Dark background -->
+            <item name="android:itemTextAppearance">@style/PopupMenuText</item>
+        </style>
+
+        <style name="PopupMenuText" parent="@android:style/TextAppearance.Material">
+            <item name="android:textColor">#FFFFFF</item> <!-- White text color -->
+        </style>
+    </resources>
+

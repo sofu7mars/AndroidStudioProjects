@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/f1"
+        android:icon="@drawable/f11"
+        android:title="Formula 1"/>
+    <item android:id="@+id/mgp"
+        android:icon="@drawable/moto_gp1"
+        android:title="Moto GP"/>
+    <item android:id="@+id/hc"
+        android:icon="@drawable/hc"
+        android:title="Hyper Car"/>
+    <item android:id="@+id/lmgt3"
+        android:icon="@drawable/lm"
+        android:title="LM GT3"/>
+</menu>

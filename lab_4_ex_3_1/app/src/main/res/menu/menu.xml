@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="MyFavorite"
+        android:icon="@drawable/ic_favorite_black_48dp"
+        android:id="@+id/favorite"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="CtoF"
+        android:id="@+id/CtoF"
+        app:showAsAction="never"/>
+    <item
+        android:title="CtoK"
+        android:id="@+id/CtoK"
+        app:showAsAction="never"/>
+    <item
+        android:title="FtoC"
+        android:id="@+id/FtoC"
+        app:showAsAction="never"/>
+    <item
+        android:title="FtoK"
+        android:id="@+id/FtoK"
+        app:showAsAction="never"/>
+    <item
+        android:title="KtoC"
+        android:id="@+id/KtoC"
+        app:showAsAction="never"/>
+    <item
+        android:title="KtoF"
+        android:id="@+id/KtoF"
+        app:showAsAction="never"/>
+</menu>
