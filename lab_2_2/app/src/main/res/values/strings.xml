@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab_2_2</string>
+    <string name="radioButton">Plus</string>
+    <string name="radioButton2">Minus</string>
+    <string name="radioButton4">divide</string>
+    <string name="radioButton5">multiply</string>
+    <string name="editText">L1</string>
+    <string name="editText2">L2</string>
+    <string name="textView">text View</string>
+</resources>
