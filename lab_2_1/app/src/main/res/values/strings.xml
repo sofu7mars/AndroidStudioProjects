@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Controls</string>
+    <string name="button2">ADD</string>
+    <string name="editText">Number</string>
+    <string name="editText2">Number</string>
+    <string name="textView">SUM = </string>
+    <string name="imageButton">Logo1</string>
+    <string name="imageButton2">Logo2</string>
+    <string name="switch1">SHOW/HIDE</string>
+    <string name="toggleButton_ON">ON</string>
+    <string name="toggleButton_OFF">OFF</string>
+    <string name="imageView">Image</string>
+    <string name="textView2">Number</string>
+    <string name="editText3">NUM</string>
+    <string name="radioButton4">Green</string>
+    <string name="radioButton5">Blue</string>
+    <string name="checkBox">Bold</string>
+    <string name="checkBox2">Italic</string>
+    <string name="button">Rewrite</string>
+</resources>
